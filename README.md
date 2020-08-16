@@ -1,4 +1,4 @@
-# vue_template
+# vue商城项目
 
 ## Project setup
 ```
